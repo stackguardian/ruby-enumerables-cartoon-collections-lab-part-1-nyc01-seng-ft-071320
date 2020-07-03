@@ -15,3 +15,4 @@ def list_dwarves(array)
     array|item| = index
     array
 end
+end
