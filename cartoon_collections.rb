@@ -16,4 +16,3 @@ def list_dwarves(array)
   }
     array 
 end
-end
